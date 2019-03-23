@@ -1,0 +1,190 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding-top:50px;
+}
+#jajal{
+	color: #00a3cc;
+	font-size: 500px;
+}
+.atas4{
+	padding-top:80px;
+}
+.atas{
+	background-color:#F00;
+	padding:2% 0 3% 0;
+}
+.atas2{
+	background-color:#fff;
+	padding:5% 0 5% 0;
+}
+.atas3{
+	background-color:#000;
+	padding:1% 0 1% 0;
+}
+
+
+.text-atas h1{
+	color:#FFF;
+	font-size:26px;
+}
+.text-atas img{
+	width:100%;
+}
+
+.text-atas p{
+	color:#FFF;
+}
+.text-atas h4{
+	color:#FFF;
+}
+
+.text-atas2 p{
+	color:#000;
+}
+.text-atas2 h4{
+	color:#000;
+}
+
+.judul h1{
+	margin:3% 0;
+	color: #666;
+}
+.panel-body span, h2{
+	color:#c41617;
+}
+.item-project img {
+	margin:5% 0;
+	width:100%;
+}
+.item-project p {
+	color: #666;
+	font-size:12px;
+}
+.item-project h4 {
+	color: #F00;
+}
+
+.item-project :hover {
+	text-decoration:none;
+	cursor:pointer;
+}
+.hitam{
+	background-color:#000;
+	display:block;
+}
+
+.tombol-projects{
+	margin:3% 0;
+}
+.tombol-projects a {
+	color:#c41617;
+}
+.myprojects{
+	background-color: #FFF;
+}
+.myskill{
+		background-color: #F93;
+		margin:3% 0;
+
+}
+.aboutme{
+	background-color: #F93;
+	margin:3% 0;
+}
+.judul-myprojects{
+		margin:3% 0;
+	color: #FFF;
+}
+
+/*detail port*/
+.copyright p{
+	color:#fff;
+}
+.copyright{
+	background-color:#F00;
+	padding:1% 0;
+}
+.copyright a{
+	color:#fff;
+}
+.detail-port p img{
+	width:250px;
+	float:left;
+	margin:0 1% 1% 0;
+}
+.widget-port-terbaru ul{
+	list-style:none;
+}
+.widget-port-terbaru ul li{
+	overflow:hidden;
+	margin-bottom:4%;
+}
+.widget-port-terbaru ul li:hover{	
+box-shadow:1px 1px 1px #999999;
+}
+.gambar-port-terbaru img{
+	width:40%;
+	float:left;
+	margin-right:2%;
+}
+.judul-port-terbaru a{
+	color:#c41617;
+}
+.judul-port-terbaru a:hover{
+	text-decoration:none;
+}
+
+.item-services ul{
+	list-style:none;
+}
+.gambar-item-services img{
+	width:100%;
+
+}
+.item-services li:nth-child(odd) .gambar-item-services{
+	float:left;
+}
+.item-services li:nth-child(even) .gambar-item-services{
+	float:right;
+}
+.deskripsi-item-services p{
+	text-align:justify;
+	
+}
+.judul-our-services{
+	margin:3% 0;
+}
+.item-services{
+	height:100%;
+	overflow:auto;
+}
+
+.services-kiri{
+	height:70vh;
+	margin-bottom:5%;
+
+}
+.services-kanan{
+height:70vh;
+	margin-bottom:5%;
+
+}
+.item-services ul li{
+	width:99%;
+}
+.testimonial{
+	margin-bottom:20%;
+}
+.testimonial h2{
+	margin-bottom:3%;
+}
+.our-partners{
+	margin-bottom:5%;
+}
+.tutorialku a:hover{
+	text-decoration:none;
+}
+	
+	
+	

@@ -1,0 +1,17 @@
+{
+  "name": "adam",
+  "description": "",
+  "main": "jquery.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.4.1"
+  }
+}

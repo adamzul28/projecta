@@ -1,0 +1,29 @@
+
+.merah{
+	color: red;
+}
+.hijau{
+	color: green;
+}
+.tebal{
+	font-weight: bold;
+}
+.tengah{
+	text-align: center;
+}
+.jarak{
+	margin-left: 20px;
+}
+.lebar{
+	width: 120px;
+}
+.judul{
+	color: brown;
+	font-family: OCR A Std;
+	margin-left: 30px;
+	cursor: not-allowed;
+}
+.judul:hover{
+	margin-left: 110px;
+	transition: 2s;
+}
